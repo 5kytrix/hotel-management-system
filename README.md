@@ -38,4 +38,4 @@ Frontend is in the client folder.
   Login authentication is implemented with JSON Web Tokens and Passport <br/>
   JWT token is stored in cookies
 
-## Project is hosted on https://hms-prateek.herokuapp.com
+### Project is hosted on https://hms-prateek.herokuapp.com
