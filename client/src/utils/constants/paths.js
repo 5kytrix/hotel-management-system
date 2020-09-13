@@ -1,0 +1,12 @@
+export const HOME = '/';
+export const LOGIN = '/login';
+export const SIGNUP = '/signup';
+export const ABOUT = '/about';
+export const CONTACT = '/contact';
+export const BOOKING = '/booking';
+export const PROFILE = '/profile';
+export const BOOKINGS = '/bookings';
+export const ADMIN_SIGNUP = '/admin/signup';
+export const ADMIN_PROFILE = '/admin/profile';
+export const ADMIN_BOOKINGS = '/admin/bookings';
+export const HOTEL_DETAILS = '/admin/details';

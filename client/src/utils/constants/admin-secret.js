@@ -1,0 +1,1 @@
+export const adminSecret = 'admin-123';
