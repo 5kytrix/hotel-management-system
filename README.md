@@ -23,7 +23,7 @@ Frontend is in the client folder.
           b. Room distribution according to room types <br/>
           c. Room distribution according to floors
 ### To make an admin account, go to /admin/signup
-### secret key : * admin-123
+### secret key : admin-123
 
 ## Frontend
     * Used ReactJS
